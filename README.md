@@ -15,6 +15,8 @@ Libraries used:
 * jsonwebtoken: `Para crear jwt o verificar el jwt`
 * morgan: `Para que se vean las consultas hechas de mejor manera`
     
+
+BD used for this project its called `userAuth`
     
     
     
